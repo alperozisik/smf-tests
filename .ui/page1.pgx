@@ -1,5 +1,6 @@
 {
-	"components": [{
+	"components": [
+		{
 			"type": "Page",
 			"id": "e891b86d",
 			"initialized": true,
@@ -40,8 +41,8 @@
 			"props": {
 				"backgroundColor": "#EEEEEE",
 				"orientation": "PORTRAIT",
-				"width": 345,
-				"height": 554.76,
+				"width": 112.5,
+				"height": 180.9,
 				"isRemovable": true,
 				"paddingLeft": 10,
 				"paddingRight": 10,
@@ -277,7 +278,7 @@
 				"bottom": 0,
 				"image": "smartface.png",
 				"borderRadius": 0,
-				"imageURL": "https://ide-ozcanovunc.c9users.io:8081/ui-editor/img/smartface.png?os=iOS&osVersion=10.2&density=326&densityRatio=0.5&zoomLevel=0.92&brandModel=iPhone%207",
+				"imageURL": "https://dispatcher.r0.smartface.io/smartface9/test1/ui-editor/img/smartface.png?os=iOS&osVersion=10.2&density=326&densityRatio=0.5&zoomLevel=0.3&brandModel=iPhone%207",
 				"marginLeft": null,
 				"marginRight": null,
 				"maxHeight": 60,
@@ -395,7 +396,7 @@
 				"right": 0,
 				"bottom": 0,
 				"height": 60,
-				"text": "Click me!",
+				"text": "Get Data",
 				"backgroundColor": "rgba( 0, 161, 241, 1 )",
 				"borderColor": "rgba( 255, 255, 255, 1 )",
 				"borderRadius": 0,
@@ -430,7 +431,7 @@
 				"width": null,
 				"height": 60,
 				"touchEnabled": true,
-				"text": "Click me!",
+				"text": "Get Data",
 				"visible": true,
 				"backgroundColor": "rgba( 0, 161, 241, 1 )",
 				"alpha": 1,
@@ -473,7 +474,7 @@
 				"right": 0,
 				"bottom": 0,
 				"height": 60,
-				"text": "Next Page",
+				"text": "Set Data",
 				"backgroundColor": "rgba( 0, 161, 241, 1 )",
 				"borderColor": "rgba( 255, 255, 255, 1 )",
 				"borderWidth": 0,
@@ -510,7 +511,7 @@
 				"width": null,
 				"height": 60,
 				"touchEnabled": true,
-				"text": "Next Page",
+				"text": "Set Data",
 				"visible": true,
 				"backgroundColor": "rgba( 0, 161, 241, 1 )",
 				"alpha": 1,

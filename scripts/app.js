@@ -18,6 +18,7 @@ const stylerBuilder = require("library/styler-builder");
 const settings = require("./settings.json");
 stylerBuilder.registerThemes(settings.config.theme.themes || "Defaults");
 stylerBuilder.setActiveTheme(settings.config.theme.currentTheme);
+require("sf-extension-utils");
 
 // Define routes and go to initial page of application
 Router.add("page1", require("./pages/page1"));
